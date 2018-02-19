@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="name">Nombre</string>
+    <string name="quantity">Cantidad</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whippedCream">Crema Batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="order">Ordenar</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Just Java</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="quantity" translatable="false">quantity</string>
+    <string name="toppings" translatable="false">Toppings</string>
+    <string name="whippedCream" translatable="false">Whipped Cream</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+   <!-- <string name="orderSummary">Order Summary</string> -->
+    <string name="order" translatable="false">Order</string>
+
+
+
+
+</resources>
